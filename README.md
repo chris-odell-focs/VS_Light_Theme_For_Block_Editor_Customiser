@@ -9,7 +9,7 @@ Quick links: [Using](#using) | [Installing](#installing) | [Donating](#donating)
 
 People like to customise the look of the products they use in life. This theme is an extension to the
 Foxdell Folio Block Editor Customiser, and requires the Block Editor Customiser to run. The theme changes
-the colours of the Block Editor Customiser so a light purple colour, and was inspired by the 'Light' theme
+the colours of the Block Editor Customiser to a light purple colour, and was inspired by the 'Light' theme
 in Visual Studio Code.
 
 ## Installing
